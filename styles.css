@@ -1,0 +1,121 @@
+body {
+  background: rgb(250, 253, 255);
+  color: rgb(64, 62, 62);
+  font-family: "Poppins", sans-serif;
+  font-weight: 500;
+}
+
+.secondary {
+  color: rgb(122, 120, 120);
+}
+
+.head {
+  text-align: center;
+  width: 100%;
+  margin-left: -40px;
+  color: black;
+}
+
+.headimg {
+  opacity: 0.35;
+  border-radius: 10px;
+  width: 65vw;
+  margin: auto;
+
+  margin-bottom: -90px;
+}
+
+.headimage {
+  border-radius: 10px;
+}
+
+h1 {
+  font-size: 37px;
+  font-weight: 400;
+}
+
+.menu {
+  position: fixed;
+  top: 20px;
+  left: 20px;
+  width: 140px;
+}
+
+.nav {
+  display: block;
+  text-decoration: none;
+  color: rgb(122, 120, 120);
+  transition: 0.5s ease-in-out;
+  text-shadow: 0px 0px 0px rgb(122, 120, 120);
+  line-height: 2em;
+}
+
+.nav:hover {
+  color: rgb(64, 62, 62);
+  text-shadow: 1px 1px 1px rgb(153, 153, 153);
+}
+
+.main {
+  width: 65vw;
+  margin: auto;
+  margin-left: 200px;
+  margin-top: 50px;
+  font-family: "Mukta", sans-serif;
+}
+
+@keyframes slideIn {
+  0% {
+    text-shadow: 0px 0px 0px rgb(122, 120, 120);
+  }
+  100% {
+    text-shadow: 2px 2px 2px rgb(206, 206, 206);
+  }
+}
+
+.title {
+  color: rgb(175, 175, 175);
+  margin: auto;
+  font-size: 30px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 200;
+  animation: 0.4s ease-in slideIn;
+  text-shadow: 2px 2px 2px rgb(206, 206, 206);
+}
+
+.biodiv {
+  margin: 30px 0px;
+}
+
+.bioimg {
+  float: left;
+  width: 86px;
+  height: 86px;
+  margin: 1px 13px 0px 0px;
+  border-radius: 10px;
+}
+
+.bioname {
+  font-weight: bold;
+}
+
+.biotext {
+  grid-area: bio;
+  font-size: 15px;
+}
+
+.philimg {
+  width: 65vw;
+}
+
+.essaytitle {
+  font-size: 30px;
+  font-weight: normal;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.bold {
+  font-weight: bolder;
+}
