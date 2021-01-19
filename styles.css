@@ -117,3 +117,14 @@ h1 {
 #black {
   color: black;
 }
+
+footer {
+  text-align: center;
+  color: rgb(45, 97, 45);
+  margin-top: 40px;
+  font-size: 14px;
+}
+
+a {
+  color: rgb(65, 141, 65);
+}
