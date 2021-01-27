@@ -1,5 +1,5 @@
 # Mawiomi
 Site for Mawlukutimk - Talking Circle Design Collective
-mawlukutimk.com/
+https://www.mawlukutimk.com/
 
 ![](/screenshots/site.gif)
