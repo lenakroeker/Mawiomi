@@ -1,2 +1,4 @@
 # Mawiomi
-site for mawiomi team
+Site for Mawlukutimk - Talking Circle Design Collective
+
+![](/screenshots/site.gif)
