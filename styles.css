@@ -51,10 +51,12 @@ h1 {
   color: rgb(122, 120, 120);
   transition: 0.5s ease-in-out;
   line-height: 2em;
+  font-weight: 300;
 }
 
 .nav:hover {
   color: black;
+  font-weight: 400;
 }
 
 .main {
